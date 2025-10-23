@@ -1,0 +1,28 @@
+{
+  "type": "irons_apothic:spell_trigger",
+  "definition": {
+    "affix_type": "ability",
+    "weights": {
+      "weight": 12,
+      "quality": 0.45
+    },
+    "exclusive_set": []
+  },
+  "spell": "irons_spellbooks:shield",
+  "trigger": "HURT",
+  "target": "SELF",
+  "values": {
+    "ancientreforging:ancient": {
+      "level": {
+        "min": 2,
+        "steps": 4,
+        "step": 1
+      },
+      "cooldown": 200
+    }
+  },
+  "types": [
+    "apotheosis:chestplate",
+    "apotheosis:leggings"
+  ]
+} 

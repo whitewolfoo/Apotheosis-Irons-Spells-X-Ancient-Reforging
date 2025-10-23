@@ -1,0 +1,27 @@
+{
+  "type": "irons_apothic:spell_trigger",
+  "definition": {
+    "affix_type": "ability",
+    "weights": {
+      "weight": 15,
+      "quality": 0.35
+    },
+    "exclusive_set": []
+  },
+  "spell": "irons_spellbooks:poison_arrow",
+  "trigger": "PROJECTILE_HIT",
+  "target": "TARGET",
+  "values": {
+    "ancientreforging:ancient": {
+      "level": {
+        "min": 2,
+        "steps": 3,
+        "step": 1
+      },
+      "cooldown": 60
+    }
+  },
+  "types": [
+    "apotheosis:bow"
+  ]
+} 
