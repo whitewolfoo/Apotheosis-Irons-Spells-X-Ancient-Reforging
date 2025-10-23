@@ -1,3 +1,7 @@
+## 1.1.1
+- "Laughing at the version number won't fix the world only accepting it will" he says, desperately trying not to laugh
+- fixed brimstone hellblast
+
 ## 1.1.0
 - Accidentally threw the world back into damnation
 - Added extra support for Iron's addon's
