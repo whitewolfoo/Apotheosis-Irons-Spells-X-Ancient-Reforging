@@ -18,7 +18,7 @@
   "trigger": "MELEE_HIT",
   "target": "TARGET",
   "values": {
-  "ancientreforging:ancient": {
+    "ancientreforging:ancient": {
       "level": {
         "min": 2,
         "steps": 1,
